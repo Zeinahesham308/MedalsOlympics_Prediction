@@ -1,5 +1,5 @@
 # MedalsOlympics_Prediction
-Prediction of how many medals a country will get in the olympics
+Prediction of how many medals a country will get in the olympics using Linear Regression
 # Steps :
 ### 1-Find the Data
 ### 2-Reshape the Data 
